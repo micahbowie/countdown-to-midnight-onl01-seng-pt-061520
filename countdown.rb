@@ -1,5 +1,6 @@
 def countdown_with_sleep 
-  delay 
+  delay 5.0;
+end 
 
 def countdown
   number = 10 
